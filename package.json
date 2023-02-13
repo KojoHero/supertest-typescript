@@ -1,0 +1,35 @@
+{
+  "name": "supertest-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "api-test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KojoHero/supertest-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KojoHero/supertest-typescript/issues"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.17.2",
+    "jest": "^28.1.1",
+    "supertest": "^6.3.3",
+    "ts-jest": "28.0.5",
+    "typescript": "4.7.3"
+  },
+  "dependencies": {
+    "@types/jest": "28.1.1",
+    "@types/supertest": "2.0.12"
+  },
+  "engines": {
+    "node": "16",
+    "npm": "8"
+  },
+  "homepage": "https://github.com/KojoHero/supertest-typescript#readme"
+}
