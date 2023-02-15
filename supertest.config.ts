@@ -1,2 +1,2 @@
 export const baseUrl =
-  'https://dog.ceo'
+  'https://reqres.in'
