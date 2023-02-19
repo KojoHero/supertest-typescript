@@ -9,6 +9,5 @@ describe('API test - get method', ()=>{
       expect(response).toHaveProperty('first_name','Janet')
       expect(response).toHaveProperty('last_name','Weaver')
       expect(response).toHaveProperty('email','janet.weaver@reqres.in')
-      console.log(response)
 });
 })
